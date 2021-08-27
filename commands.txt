@@ -7,3 +7,8 @@ npm install
 npm install redux 
 
 npm install redux react-redux
+
+
+useSelector() is subscription
+
+useDispatch() is action
