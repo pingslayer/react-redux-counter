@@ -1,3 +1,5 @@
+list of commands:
+
 npm init -y
 
 npm install
