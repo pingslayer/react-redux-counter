@@ -8,7 +8,11 @@ npm install redux
 
 npm install redux react-redux
 
+npm install @reduxjs/toolkit
+
 
 useSelector() is subscription
 
 useDispatch() is action
+
+createSlice() is reduxtoolkit function
